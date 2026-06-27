@@ -10,7 +10,6 @@ Hello, I'm Thomas Cowie, a passionate Electrical and Electronic Engineering stud
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Thomas-Cowie-Engineering&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Thomas-Cowie-Engineering&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Thomas-Cowie-Engineering&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
