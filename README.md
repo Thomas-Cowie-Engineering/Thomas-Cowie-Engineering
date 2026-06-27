@@ -12,7 +12,6 @@ Hello, I'm Thomas Cowie, a passionate Electrical and Electronic Engineering stud
 ![](https://streak-stats.demolab.com/?user=Thomas-Cowie-Engineering&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Thomas-Cowie-Engineering&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=Thomas-Cowie-Engineering&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
