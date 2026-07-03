@@ -3,7 +3,7 @@ Hello, I'm Thomas Cowie, a passionate Electrical and Electronic Engineering stud
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/thomas-cowie-4212242a6) 
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/www.linkedin.com/in/thomas-cowie-4212242a6](https://www.linkedin.com/in/thomas-cowie-4212242a6/?skipRedirect=true)) ](https://www.linkedin.com/in/thomas-cowie-4212242a6/?skipRedirect=true)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
