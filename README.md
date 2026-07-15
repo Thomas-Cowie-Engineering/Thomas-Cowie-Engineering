@@ -25,9 +25,7 @@ Hello, I'm Thomas Cowie, a passionate Electrical and Electronic Engineering stud
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![WSL](https://img.shields.io/badge/WSL-0078D4?style=flat&logo=windows&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Thomas-Cowie-Engineering&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Thomas-Cowie-Engineering&theme=blue-green&hide_border=false)<br/>
+
 
 
 
